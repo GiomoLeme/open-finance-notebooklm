@@ -16,11 +16,16 @@ O desafio propõe a criação de um caderno temático no NotebookLM a partir de 
 
 ## Fontes utilizadas
 
+### Fontes principais em texto/PDF
+
 1. [Banco Central do Brasil - FAQ Open Finance](https://www.bcb.gov.br/meubc/faqs/s/open-finance)
 2. [Serasa - Open Finance é seguro? Riscos, vantagens e cuidados](https://www.serasa.com.br/score/blog/open-finance-e-seguro/)
 3. [Banco Central do Brasil - Relatório de Cidadania Financeira 2025 (PDF)](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/Relatorio_de_Cidadania_Financeira_2025.pdf)
-4. Vídeo **Open Finance: a nova era das finanças**, com Marcos Cavagnoli e Rodrigo Linhares
-5. [Open Finance Brasil - Área do Desenvolvedor](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17367092)
+4. [Open Finance Brasil - Área do Desenvolvedor](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17367092)
+
+### Vídeo complementar
+
+- [Open Finance: a nova era das finanças - Marcos Cavagnoli e Rodrigo Linhares](https://www.youtube.com/watch?v=vAZUJHy7ch8)
 
 ## Metodologia
 
@@ -80,6 +85,7 @@ Esse episódio evidencia quatro práticas importantes:
 ## Materiais
 
 - [Perguntas estratégicas](docs/perguntas-estrategicas.md)
+- [Registro das respostas do NotebookLM](docs/registro-respostas-notebooklm.md)
 - [Engenharia de prompts](docs/engenharia-de-prompts.md)
 - [Glossário](docs/glossario.md)
 - [Prompts reutilizáveis](docs/prompts-reutilizaveis.md)
@@ -108,12 +114,11 @@ open-finance-notebooklm/
 ├── README.md
 ├── docs/
 │   ├── perguntas-estrategicas.md
+│   ├── registro-respostas-notebooklm.md
 │   ├── engenharia-de-prompts.md
 │   ├── glossario.md
 │   ├── prompts-reutilizaveis.md
 │   └── miniguia-open-finance.pdf
-└── assets/
-    └── .gitkeep
 ```
 
 ## Referências
